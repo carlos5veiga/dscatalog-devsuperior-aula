@@ -27,3 +27,8 @@
     color: #FFF;
     font-weight: 700;
 }
+
+.main-menu a.inactive {
+    color: rgba(255, 255, 255, 0.5);
+    font-weight: 400;
+}
